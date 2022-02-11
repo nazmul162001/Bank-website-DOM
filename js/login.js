@@ -15,3 +15,5 @@ document.getElementById('login-submit').addEventListener('click', function(){
   }
 
 })
+
+// done banking part to another file 
