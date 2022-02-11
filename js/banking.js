@@ -33,6 +33,9 @@ document.getElementById('deposit-button').addEventListener('click', function(){
   balanceTotal.innerText = newBalanceTotal;
 })
 
+
+
+
 // withdraw button event handler
 
 document.getElementById('withdraw-button').addEventListener('click', function(){
